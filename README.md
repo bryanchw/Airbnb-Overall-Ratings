@@ -1,10 +1,10 @@
 # Airbnb-Overall-Ratings
 
-# Problem
-Some Airbnb hosts complained in the Airbnb community that they received six perfect category scores but not a perfect overall rating for their listings. Overall ratings is a separate score given by guests.
-
 # Project Goal
 The goal of this project is to help Airbnb hosts understand which one of six category scores contributes the most to the overall rating using linear regression. 
+
+# Problem
+Some Airbnb hosts complained in the Airbnb community that they received six perfect category scores but not a perfect overall rating for their listings. Overall ratings is a separate score given by guests.
 
 # Get Started
 To get started, datasets are available from http://insideairbnb.com/get-the-data.html. Required Python libraries are mentioned in the "requirements.txt" file.
